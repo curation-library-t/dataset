@@ -17,14 +17,9 @@
 <dd>
 コレクション中のアイテムのメタデータの一覧を表形式（MS-Excel, CSV, TSV）とRDF形式（JSON-LD, RDF/XML, Turtle, N-Triples）で提供します。
 </dd>
-<dt>テキスト</dt>
-<dd>
-一部のコレクションでは、テキストデータを公開しています。RTF形式とTEI/XML形式で提供します。
-</dd>
 </dl>
 
 * IIIF: [International Image Interoperability Framework](https://iiif.io/)
-* TEI: [Text Encoding Initiative](http://www.tei-c.org/)  
 
 ***
 
@@ -46,18 +41,4 @@ docs
 |   │   │   data.rdf
 |   │   │   data.nt
 |   │   │   data.ttl
-|   │
-|   └───text
-|       └───rtf   
-|       │   |   xxx.rtf
-|       │   |   yyy.rtf       
-|       │   |   ...
-|       │
-|       └───xml
-|       │   |   xxx.xml
-|       │   |   yyy.xml       
-|       │   |   ...        
-|
-└───collection B
-|   |   ...
 ```
