@@ -1,0 +1,16 @@
+api_url: https://curation.library.t.u-tokyo.ac.jp/api
+output_dir: ../docs
+metadata:
+  dcterms:identifier: ID
+  dcterms:isPartOf: ウェブサイトURL
+  dcterms:relation: アイテムURL
+  dcterms:rights: 利用条件
+  foaf:thumbnail: サムネイル
+  rdfs:seeAlso: 機械可読ドキュメント
+  sc:attributionLabel: 帰属
+  uterms:manifestUri: IIIFマニフェストURI
+sort: uterms:sort
+github_pages_url: https://curation-library-t.github.io/dataset
+identifier: dcterms:identifier
+list_path: list.json
+base_url: https://dch.iii.u-tokyo.ac.jp/s/dch/record
